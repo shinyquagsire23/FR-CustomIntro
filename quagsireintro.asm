@@ -353,7 +353,3 @@ ldr r3, fade_song
 mov r0, #0x4
 bx r3
 
-c:
-void somefunction ( void )
-{
-}
